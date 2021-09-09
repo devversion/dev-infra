@@ -51,7 +51,7 @@
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-sourcemaps": "^0.6.3",
-    "selenium-webdriver": "3.5.0",
+    "selenium-webdriver": "3.6.0",
     "semver": "^7.3.5",
     "ts-node": "^10.2.1",
     "tslib": "^2.3.0",
