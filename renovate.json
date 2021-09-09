@@ -3,7 +3,7 @@
     "config:base"
   ],
   "postUpgradeTasks": {
-    "commands": ["tslint --fix"],
+    "commands": ["yarn update-generated-files"],
     "fileFilters": ["github-actions/**/*.js", "tools/local-actions/**/*.js"],
     "executionMode": "branch"
   }
