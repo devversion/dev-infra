@@ -11,7 +11,7 @@
     "update-generated-files": "ts-node --transpile-only ./tools/update-generated-files.ts"
   },
   "dependencies": {
-    "@actions/core": "^1.4.0",
+    "@actions/core": "1.6.0",
     "@actions/github": "^5.0.0",
     "@angular-devkit/build-optimizer": "^0.1202.0",
     "@angular/benchpress": "0.2.1",
