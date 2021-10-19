@@ -39,7 +39,7 @@ executors:
     environment:
       GCP_DECRYPT_TOKEN: *gcp_decrypt_token
     docker:
-      - image: circleci/node:14.16.1@sha256:951e12268fe692615bfd155c327bd910e10c99db98404badd03879f984c32b31
+      - image: circleci/node:16.11.1@sha256:956e4063d7e6365eac95f0894efc3fc88bb8fd36ce613469eb73b960800b6134
     resource_class: << parameters.resource_class >>
     working_directory: ~/ng
 
