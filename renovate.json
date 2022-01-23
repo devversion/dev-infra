@@ -6,7 +6,6 @@
   "automerge": false,
   "separateMajorMinor": false,
   "timezone": "America/Tijuana",
-  "prHourlyLimit": 3,
   "labels": ["comp: build", "dependencies", "action: merge"],
   "lockFileMaintenance": {
     "enabled": true
