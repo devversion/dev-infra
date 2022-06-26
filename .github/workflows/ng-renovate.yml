@@ -1,5 +1,6 @@
 name: Angular-Org Renovate
 on:
+  workflow_dispatch
   schedule:
     - cron: '0/30 * * * *' # Runs every 30 minutes.
 jobs:
